@@ -10,5 +10,5 @@ This is meant primarily for none-nodejs projects.
   - CODEOWNERS
   - README.md
   - CONTRIBUTING.md
-  - prepare-release.sh
+  - release-targets.txt
   - linting
