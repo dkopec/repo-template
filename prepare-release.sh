@@ -4,7 +4,7 @@
 mkdir -p dist
 
 # Get targets.
-targets=cat release-targets.txt
+targets=$(tr "\n\r" " " < "./release-targets.txt")
 
 # Change the * to specifc files best suited for your project.
 zip -qq -r "dist/Release_$1.zip" $targets
