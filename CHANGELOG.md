@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dkopec/repo-template/compare/v1.0.1...v1.0.2) (2022-10-11)
+
+
+### Bug Fixes
+
+* renamed bot git account to generic ([f6f4092](https://github.com/dkopec/repo-template/commit/f6f4092e51d6c3d624850d23cb53e580166828dc))
+
 ## [1.0.1](https://github.com/dkopec/repo-template/compare/v1.0.0...v1.0.1) (2022-10-11)
 
 
