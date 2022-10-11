@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dkopec/repo-template/compare/v1.0.0...v1.0.1) (2022-10-11)
+
+
+### Bug Fixes
+
+* upgraded node to 16.17.1 LTS ([a18adf7](https://github.com/dkopec/repo-template/commit/a18adf71df4fb724eb65b34fcaa0ab78c37bedcb))
+
 ## 1.0.0 (2021-05-21)
 
 
