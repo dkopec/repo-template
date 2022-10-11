@@ -23,12 +23,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-
-      #Semantic Release uses Node, 13 specifically bc newer version cause file access issues.
+        
+        # Using Node LTS version
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: 13
+          node-version: 16.17.1
       
       # Need to install the plugins that aren't bundled.
       - name: Install Plugins for Semnatic Release
